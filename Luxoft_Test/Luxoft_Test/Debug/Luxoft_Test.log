@@ -1,0 +1,8 @@
+﻿  Application.cpp
+  Factory.cpp
+  File.cpp
+  Processor.cpp
+c:\data\cygwin\home\nik\luxoft_test\luxoft_test\processor.cpp(16): warning C4018: '<': signed/unsigned mismatch
+c:\data\cygwin\home\nik\luxoft_test\luxoft_test\processor.cpp(18): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Luxoft_Test.vcxproj -> C:\Users\Nik\source\repos\Luxoft_Test\Debug\Luxoft_Test.exe
